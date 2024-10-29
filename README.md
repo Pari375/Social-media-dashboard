@@ -1,6 +1,6 @@
 
 ## 🛠 Technologies Used
-React, Nodejs, ExpressJs, MongoDB, Javascript, HTML, CSS...
+React, Nodejs, ExpressJs, MongoDB, Javascript, HTML, CSS.
 
 ---
 
